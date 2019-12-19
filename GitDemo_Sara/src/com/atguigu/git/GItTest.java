@@ -8,6 +8,6 @@ public class GItTest {
 			
 			System.out.println("i love git");
 		}
-		
+		System.out.println("message sent");
 	}
 }
